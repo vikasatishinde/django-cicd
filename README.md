@@ -1,2 +1,2 @@
 # django-cicd
-this is for django 
+thiss iss forr djanggo 
