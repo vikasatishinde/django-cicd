@@ -1,2 +1,2 @@
 # django-cicd
-this is for django 
+vikas is a chutiya....mhi hai yarr achha insan hai hume sikha rha hai !
